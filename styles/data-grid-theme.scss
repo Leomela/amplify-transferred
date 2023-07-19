@@ -1,0 +1,9 @@
+$DATAGRID_THEME_NAME: 'pmc-chpub';
+$INOVUA_DATAGRID_HEADER_BG: #e3e3e3;
+$INOVUA_DATAGRID_BORDER_COLOR: #d3d3d3;
+$INOVUA_DATAGRID_HEADER_BORDER_COLOR: #d3d3d3;
+$INOVUA_DATAGRID_FONT_COLOR: #373439;
+$INOVUA_DATAGRID_FIELD_FOCUS_COLOR: #f00;
+
+@import '@inovua/reactdatagrid-community/style/theme/default-light/index.scss';
+@import './context-menu.scss';

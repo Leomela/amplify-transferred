@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 401 35">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #2747BD;
+                font-family: NeueHaasDisplay, 'Neue Haas Grotesk Display Pro';
+                font-size: 35px;
+                font-weight: 900;
+                letter-spacing:  0.13em
+            }
+        </style>
+    </defs>
+    <text class="cls-1" transform="translate(0 30.87)">CHART PUBLISHER</text>
+</svg>
